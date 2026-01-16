@@ -11,7 +11,6 @@ The player supports playlist management, progress tracking, and smooth playback 
 - ⏭️ Next & Previous track controls
 - 📃 Dynamic playlist
 - 🎧 Click-to-play any song from the list
-- 📊 Real-time progress bar with seek support
 - ⏱️ Current time & total duration display
 - 🔁 Auto-play next song
 - 🎶 Animated playing indicator
@@ -50,4 +49,4 @@ The player supports playlist management, progress tracking, and smooth playback 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/tanishk49/javascript-music-player.git 
+   git clone https://github.com/tanishk49/music-player.git 
