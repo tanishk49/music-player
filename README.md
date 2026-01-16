@@ -1,4 +1,4 @@
-# JavaScript Music Player
+# Music Player
 
 A responsive and interactive **Music Player Web Application** built using **HTML, CSS, and Vanilla JavaScript**.  
 The player supports playlist management, progress tracking, and smooth playback controls.
@@ -23,13 +23,21 @@ The player supports playlist management, progress tracking, and smooth playback 
 - **HTML5**
 - **CSS3**
 - **JavaScript (ES6)**
-- **Font Awesome**
-- **Iconify Icons**
 
 ---
 
 ## 📂 Project Structure
-
+```
+MUSIC-PLAYER/
+├── mplayer.html
+├── CSS/
+│ └── mplayer.css
+├── JS/
+│ └── mplayer.js
+├── images/
+├── musicname/
+└── .vscode/
+```
 
 ---
 
